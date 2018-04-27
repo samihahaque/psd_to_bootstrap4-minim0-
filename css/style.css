@@ -1,0 +1,140 @@
+body{
+    font-family:'Playfair Display', serif;
+}
+.custom_nav{
+    background-color: white !important;
+    padding:3% 0;
+}
+.logo{
+    font-family:'Inconsolata', monospace;
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+.custom_nav ul li a{
+    color:#818181 !important;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    transition: 0.6s;
+}
+.custom_nav ul li{
+    padding-left:80px;
+}
+.custom_nav ul li a:hover{
+    color:black !important;
+    transform: scale(1.05);
+}
+.banner_img{
+    padding:3% 0;
+}
+.banner_img img{
+    width:100%;
+}
+.banner_text{
+    padding:0 8%;
+    padding-top: 2%;
+    padding-bottom: 6%;
+}
+.banner_text h5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #c7c1b6;
+    padding-top:3%;
+}
+.banner_text h1{
+    font-size: 30px;
+    color:#818181;
+    padding:2% 0;
+}
+.banner_text p{
+    font-size: 14px;
+    color:#818181;
+}
+.gallery{
+    margin:0 15%;
+    margin-top:2.5%;
+}
+.single_profile{
+    margin:0 4.6%;
+    margin-bottom:15%;
+    transition:0.5s;
+}
+.single_profile:hover{
+    transform: scale(1.04);
+}
+.single_img img{
+    width:100%;
+}
+.single_text h5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #c7c1b6;
+    padding-top:6%;
+}
+.single_text h1{
+    font-size: 30px;
+    color:#818181;
+    padding:4.5% 0;
+}
+.single_text p{
+    font-size: 14px;
+    color:#818181;
+}
+.form{
+    background-color: #f0f0f0;
+    padding:5% 0;
+}
+form{
+    position: relative;
+    font-family: 
+}
+form img{
+    position: absolute;
+    bottom:12px;
+    right:32%;
+}
+form label{
+    font-size: 30px;
+    padding-bottom:3%;
+}
+form input{
+    width:36%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: black;
+    padding-top:1.5%;
+    font-size: 14px;
+    background-color: #f0f0f0;
+}
+.second_gallery{
+    padding-top: 4.5%;
+}
+.button{
+    padding-top:6%;
+    padding-bottom:45%;
+}
+.button button{
+    padding:1.5% 3%;
+    font-size: 20px;
+    transition: 0.4s;
+}
+.button button:hover{
+    background-color: transparent;
+    color:black;
+    transform: scale(1.02);
+}
+footer{
+    background-color: #f0f0f0;
+    padding:2% 0;
+}
+footer i{
+    color:#626262;
+    transition: 0.5s;
+}
+footer i:hover{
+    color:black;
+}
+footer p{
+    color: black;
+    font-size: 14px;
+}
