@@ -46,6 +46,15 @@
     bottom:12px;
     right:5%;
 }
+    .foot_1{
+        padding:0 25%;
+    }
+    .foot_2{
+        padding:0 25%;
+    }
+    .privacy{
+        padding:0 30%;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up)*/
